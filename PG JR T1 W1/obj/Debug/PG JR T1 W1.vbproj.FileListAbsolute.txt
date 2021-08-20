@@ -1,0 +1,8 @@
+C:\Users\hp\Documents\Visual Studio 2012\Projects\PG JR T1 W1\PG JR T1 W1\bin\PG JR T1 W1.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\PG JR T1 W1\PG JR T1 W1\bin\PG JR T1 W1.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\PG JR T1 W1\PG JR T1 W1\bin\PG JR T1 W1.xml
+C:\Users\hp\Documents\Visual Studio 2012\Projects\PG JR T1 W1\PG JR T1 W1\obj\Debug\PG_JR_T1_W1.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2012\Projects\PG JR T1 W1\PG JR T1 W1\obj\Debug\PG JR T1 W1.vbproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2012\Projects\PG JR T1 W1\PG JR T1 W1\obj\Debug\PG JR T1 W1.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\PG JR T1 W1\PG JR T1 W1\obj\Debug\PG JR T1 W1.xml
+C:\Users\hp\Documents\Visual Studio 2012\Projects\PG JR T1 W1\PG JR T1 W1\obj\Debug\PG JR T1 W1.pdb
